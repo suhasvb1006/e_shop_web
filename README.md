@@ -15,14 +15,8 @@ Bootstrap – A tool that helps style the website with buttons, grids, and more.
 HTML – The basic building block of the web pages, used for structuring content.
 CSS - The basic added class,tags.
 
-# How to run the Application
-1]Download the e_shop_web.rar file.
-2]This file extract we want to need 
-3]In that extractg folder test.html file click on this file open on any brower
 
-
-
-## How to Run the Application
+# How to Run the Application
 1] Download the e_shop_web.rar file :
    First, download the file named e_shop_web.rar to your computer.
 
