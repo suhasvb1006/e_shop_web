@@ -37,5 +37,5 @@ CSS - The basic added class,tags.
    Find and double-click the test.html file.
    It will automatically open in your web browser (like Chrome, Firefox, or Edge).
 
-# Note: Now you should be able to see the application running in your browser!
+## Note: Now you should be able to see the application running in your browser!
 
